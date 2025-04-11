@@ -10,7 +10,7 @@ class Estudiante:
     def verificar_aprobado(self):
         return self.calcular_promedio() >= 6
 
-estudiante1 = Estudiante("Dami", 8.5, 7.0)
+estudiante1 = Estudiante("Dani", 8.5, 7.0)
 estudiante2 = Estudiante("Ara", 5.0, 6.5)
 estudiante3 = Estudiante("Dorian", 9.0, 8.0)
 
